@@ -1,7 +1,7 @@
 
 # Wiza Travel Bot
 
-<img src="assets/wiza_logo.jpg" alt="Sample Image" width="800"/>
+<img src="wiza_logo.jpg" alt="Sample Image" width="800" height = "400"/>
 
 
 🔍 **Wiza Travel Bot** helps you find the best restaurants and hotels based on ratings anywhere in the world. The bot supports **39 countries** and **462 cities** to assist you in your travel planning.
